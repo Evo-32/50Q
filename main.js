@@ -1,7 +1,8 @@
  // Sample data
         const numbers = [15, 23, 8, 42, 17, 9, 31, 56, 23, 8, 19, 45, 67, 12, 34, 23, 78, 9, 15, 42];
-        const names = ["Alice", "Bob", "Charlie", "Diana", "Eve", "Frank", "Grace", "Henry", "Ivy", "Jack", 
-                       "Karen", "Leo", "Mia", "Noah", "Olivia", "Paul", "Quinn", "Rachel", "Sam", "Tina"];
+        const names = ["Annete", "Betty", "Choel", "Dianah", "Elijah", "Fredy", "Grace", "Heriette", "Ines", "John", 
+                       "Keilla", "Liam", "Mike", "Nathan", "Olivia", "Peter", "Quinn", "Leah", "Sam", "Terry","Zaninka",
+                          "yvette","violet","wendy","Bega","Emma"];
 
         // Arrays - Questions 1-10
         function sumArray(arr) {
